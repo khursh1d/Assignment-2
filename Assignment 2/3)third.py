@@ -10,3 +10,7 @@ seconds %= 60
 
 #Printing the result
 print(f"{hours} hour(s), {minutes} minute(s), and {seconds} second(s).")
+
+# Name: Bakhtiyorov Khurshidbek Khamdam Ugli
+# Student ID: 202312403
+# Class (003)
